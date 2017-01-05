@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="messages" date="2017-01-05T14:25:35Z" product-name="jhe_randomcites">
+		<header/>
+		<body>
+			<trans-unit id="tx_jherandomcites_domain_model_cite">
+				<source>Cite</source>
+			</trans-unit>
+			<trans-unit id="tx_jherandomcites_domain_model_cite.cite">
+				<source>Cite</source>
+			</trans-unit>
+			<trans-unit id="tx_jherandomcites_domain_model_cite.originator">
+				<source>Originator</source>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>
